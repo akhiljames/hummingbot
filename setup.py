@@ -38,6 +38,7 @@ def main():
         "hummingbot.market.binance",
         "hummingbot.market.bittrex",
         "hummingbot.market.coinbase_pro",
+        "hummingbot.market.coinfalcon",
         "hummingbot.market.ddex",
         "hummingbot.market.huobi",
         "hummingbot.market.idex",
